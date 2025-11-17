@@ -1,1 +1,2 @@
-https://github.com/University-for-the-Creative-Arts/ai-patrol-CowLover0987/blob/main/Recording%202025-11-17%20123748.mp4
+![Video of NPC following player](https://github.com/University-for-the-Creative-Arts/ai-patrol-CowLover0987/blob/main/Recording%202025-11-17%20123748.mp4)
+
